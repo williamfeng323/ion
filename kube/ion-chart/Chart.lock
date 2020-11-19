@@ -4,9 +4,9 @@ dependencies:
   version: 4.4.1
 - name: redis
   repository: https://charts.bitnami.com/bitnami
-  version: 10.7.5
+  version: 12.1.1
 - name: etcd
   repository: https://charts.bitnami.com/bitnami
   version: 4.8.5
-digest: sha256:5409b38a8ae522ac8089e6a9943997acf09c6a32269dfcf766e1683eb2bb18e2
-generated: "2020-06-24T10:43:14.0284901-04:00"
+digest: sha256:857f5cf3b9e1dfc997477bd9e4233915c38c697b481a2fc1949757490fc53393
+generated: "2020-11-19T14:46:06.672609954Z"
